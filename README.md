@@ -19,3 +19,13 @@ Senior Flutter Engineer passionate about building scalable, reliable and user-fo
 - Building secure and reliable application features.
 - Improving application performance and code quality.
 - Writing testable code and maintaining engineering standards.
+
+## Currently Exploring
+
+- AI-assisted software development
+- Machine Learning and Python
+- Mobile application architecture
+- Improving developer productivity and code quality
+
+## Connect
+[Linkedin](https://www.linkedin.com/in/chitra-kampoowale-025118123/) . [GitHub](https://github.com/kampoowale)
